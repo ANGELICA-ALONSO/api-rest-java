@@ -58,7 +58,7 @@ class MedicoControllerTest {
                 "Medico",
                 "medico@voll.med",
                 "61999999999",
-                "123456",
+                "12345678",
                 Especialidad.CARDIOLOGIA,
                 datosDireccion());
 
